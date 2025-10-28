@@ -23,6 +23,8 @@ body {
 }
 
 .navigation-list a {
+    font-style: normal;
+    font-weight: 500;
     text-decoration: none;
     color: #2E2F42;
     font-weight: medium;
@@ -60,8 +62,9 @@ body {
 }
 
 .hero-header {
+    text-align: center
     color: #FFFFFF;
-    font-weight: 500
+    font-weight: 500;
     font-size: 56px;    
     line-height: 1.07;
     letter-spacing: 0.02em;
@@ -105,6 +108,7 @@ body {
 
 .team-header {
     font-weight: 500;
+    line-height: 1.11;
     font-size: 36px;
     text-align: center;
     letter-spacing: 0.02em;
@@ -121,7 +125,7 @@ body {
 }
 
 .member-header {
-    font-weight: medium;
+    font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
