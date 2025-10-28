@@ -1,0 +1,125 @@
+body {
+    font-family: "Roboto", sans-serif;
+    color: #434455;
+    font-size: 12px;
+    line-height: 2;
+    letter-spacing: 2%;
+}
+
+.navigation-list a {
+    text-decoration: none;
+    color: #2E2F42;
+    font-weight: medium;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 2%;
+}
+
+.navigation-list a:hover,
+.navigation-list a:focus {
+    color: #404BBF;
+}
+
+.navigation-list a:active {
+    text-decoration: underline;
+}
+
+
+.contacts-list a {
+    font-style: normal;
+    text-decoration: none;
+    color: inherit;
+    font-size: inherit;
+    line-height: inherit;
+    letter-spacing: inherit;
+}
+
+.contacts-list a:hover,
+.contacts-list a:focus {
+    color: #404BBF;
+}
+
+.hero {
+    background-color: #2E2F42;
+}
+
+.hero-header {
+    color: #FFFFFF;
+    font-weight: bold;
+    font-size: 56px;    
+    line-height: 1.07;
+    letter-spacing: 2%;
+    text-align: center;
+    width: 496px;
+    height: 120px;
+}
+
+.hero-button {
+    width: 169px;
+    height: 56px;
+    background-color: #4D5AE5;
+    border: none;
+    border-radius: 4px;
+    color: #FFFFFF;
+    font-weight: medium;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 4%;
+    cursor: pointer;
+}
+
+.hero-button:hover,
+.hero-button:focus {
+    background-color: #404BBF;
+}
+
+.values-section {
+    background-color: #FFFFFF;
+}
+
+.values-header {
+    font-weight: medium;
+    font-size: 20px;
+    letter-spacing: 2%;
+}
+
+.values-list {
+    list-style: none;
+}
+
+.team-section {
+    background-color: #F4F4FD;
+}
+
+.team-header {
+    font-weight: bold;
+    font-size: 36px;
+    letter-spacing: 2%;
+}
+
+.team-list {
+    list-style: none;
+}
+
+.worker-header {
+    font-weight: medium;
+    font-size: 20px;
+    letter-spacing: 2%;
+}
+
+.portfolio-header {
+    font-weight: bold;
+    font-size: 36px;
+    letter-spacing: 2%;
+}
+
+.portfolio-list {
+    list-style: none;
+}
+
+.portfolio-header {
+    font-weight: medium;
+    font-size: 20px;
+    letter-spacing: 2%;
+}
+
