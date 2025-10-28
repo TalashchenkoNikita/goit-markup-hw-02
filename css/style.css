@@ -43,7 +43,7 @@ body {
 }
 
 
-.contacts a{
+.contacts {
     font-style: normal;
     text-decoration: none;
     color: inherit;
@@ -62,8 +62,8 @@ body {
 }
 
 .hero-header {
-    text-align: center
-    color: #FFFFFF;
+    text-align: center;
+    color: #ffffff;
     font-weight: 500;
     font-size: 56px;    
     line-height: 1.07;
